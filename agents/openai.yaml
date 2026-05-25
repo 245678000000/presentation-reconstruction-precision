@@ -1,0 +1,4 @@
+interface:
+  display_name: "Presentation Reconstruction Precision"
+  short_description: "Clean, complete editable PPT reconstruction"
+  default_prompt: "Use $presentation-reconstruction-precision to rebuild slide images into a clean editable PowerPoint with complete assets and visual QA."
